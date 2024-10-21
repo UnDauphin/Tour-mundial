@@ -1,1 +1,4 @@
 Trabajo hecho por Alejandro Moya, Mateo Giraldo Y David Ibañez completamente en collab, por lo cual el codigo corre en colab. 
+Como nota, para que el codigo funcione se debe subir el excel al espacio de colab dentro de la carpeta de "sample data" y correr la linea para leer la base de datos.
+De ahi el resto funciona sin problema
+Los mapas se guardan como htmls
